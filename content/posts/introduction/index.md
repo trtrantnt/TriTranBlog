@@ -1,18 +1,18 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "Giới thiệu"
+date: 2024-12-25T08:06:25+06:00
+description: Bài viết giới thiệu
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Giới thiệu
+    identifier: Giới thiệu
     weight: 10
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Xin chào! Đây là một bài viết giới thiệu. Bài viết này kiểm tra các nội dung sau:
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+Hình ảnh chính được đặt cùng thư mục với bài viết.
+Bài viết này sẽ được xếp ở đầu danh sách trong thanh bên.
+Tác giả bài viết được lấy từ file author.yaml.

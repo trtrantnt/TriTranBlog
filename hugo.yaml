@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://trtrantnt.github.io
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Tri's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Tri's Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
+  vn:
+    languageCode: vn
+    languageName: Tiếng Việt
+    title: "Tri's Blog"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/trtrantnt/TriTranBlog
   # Default branch of your Git repo
   gitBranch: main
 
@@ -115,7 +115,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -153,7 +153,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
