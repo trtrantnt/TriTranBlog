@@ -1,193 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bài viết on Tri's Blog</title><link>https://trtrantnt.github.io/posts/</link><description>Recent content in Bài viết on Tri's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Dec 2024 08:06:25 +0600</lastBuildDate><atom:link href="https://trtrantnt.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Giới thiệu</title><link>https://trtrantnt.github.io/posts/introduction/</link><pubDate>Wed, 25 Dec 2024 08:06:25 +0600</pubDate><guid>https://trtrantnt.github.io/posts/introduction/</guid><description>&lt;p>Xin chào! Đây là một bài viết giới thiệu. Bài viết này kiểm tra các nội dung sau:&lt;/p>
-&lt;p>Hình ảnh chính được đặt cùng thư mục với bài viết.
-Bài viết này sẽ được xếp ở đầu danh sách trong thanh bên.
-Tác giả bài viết được lấy từ file author.yaml.&lt;/p></description></item><item><title>Shortcodes Samples</title><link>https://trtrantnt.github.io/posts/java/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://trtrantnt.github.io/posts/java/</guid><description>&lt;p>This is a sample post intended to test the followings:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bài viết on Tri's Blog</title><link>https://trtrantnt.github.io/posts/</link><description>Recent content in Bài viết on Tri's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 26 Dec 2024 10:00:00 +0600</lastBuildDate><atom:link href="https://trtrantnt.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Sử Dụng Hàm Nâng Cao trong JavaScript</title><link>https://trtrantnt.github.io/posts/advanced/</link><pubDate>Thu, 26 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/advanced/</guid><description>&lt;h1 id="sử-dụng-hàm-nâng-cao-trong-javascript">Sử Dụng Hàm Nâng Cao trong JavaScript&lt;/h1>
+&lt;p>JavaScript cung cấp nhiều tính năng mạnh mẽ cho phép bạn sử dụng các hàm một cách linh hoạt và hiệu quả hơn. Trong bài viết này, chúng ta sẽ tìm hiểu về các khái niệm nâng cao liên quan đến hàm.&lt;/p>
+&lt;hr>
+&lt;h2 id="40-một-chút-về-hàm">4.0. Một Chút Về Hàm&lt;/h2>
+&lt;p>Hàm là một phần quan trọng trong JavaScript, cho phép bạn tái sử dụng mã và tổ chức logic một cách hiệu quả. Việc hiểu sâu hơn về hàm sẽ giúp bạn viết mã sạch hơn và dễ bảo trì hơn.&lt;/p></description></item><item><title>Biến, Kiểu Dữ Liệu, Ép Kiểu, và Ghi Chú trong JavaScript</title><link>https://trtrantnt.github.io/posts/variablesdatatypes/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/variablesdatatypes/</guid><description>&lt;h1 id="tìm-hiểu-về-biến-kiểu-dữ-liệu-ép-kiểu-và-ghi-chú-trong-javascript">Tìm Hiểu Về Biến, Kiểu Dữ Liệu, Ép Kiểu, và Ghi Chú Trong JavaScript&lt;/h1>
+&lt;p>JavaScript là một ngôn ngữ linh hoạt cho phép bạn làm việc với nhiều kiểu dữ liệu và cách quản lý biến. Bài viết này sẽ hướng dẫn bạn cách khai báo biến, hiểu các kiểu dữ liệu, thực hiện ép kiểu, và sử dụng ghi chú hiệu quả.&lt;/p>
+&lt;hr>
+&lt;h2 id="20-section-1--variables">2.0. Section 1 – Variables&lt;/h2>
+&lt;h3 id="biến-variables">Biến (Variables)&lt;/h3>
+&lt;p>Biến trong JavaScript được sử dụng để lưu trữ giá trị. Bạn có thể khai báo biến bằng các từ khóa &lt;code>var&lt;/code>, &lt;code>let&lt;/code>, hoặc &lt;code>const&lt;/code>.&lt;/p></description></item><item><title>Classes trong JavaScript</title><link>https://trtrantnt.github.io/posts/class/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/class/</guid><description>&lt;h1 id="tìm-hiểu-về-classes-trong-javascript">Tìm Hiểu Về Classes Trong JavaScript&lt;/h1>
+&lt;p>Classes trong JavaScript là một cách hiện đại để tạo và quản lý các đối tượng, giúp mã dễ đọc hơn và mạnh mẽ hơn. Trong bài viết này, chúng ta sẽ tìm hiểu các khái niệm cơ bản về Classes.&lt;/p>
+&lt;hr>
+&lt;h2 id="21-class-declaration">2.1. Class Declaration&lt;/h2>
+&lt;p>Classes được khai báo bằng từ khóa &lt;code>class&lt;/code>, cho phép chúng ta định nghĩa một blueprint cho các đối tượng.&lt;/p></description></item><item><title>Đối tượng tích hợp trong JavaScript</title><link>https://trtrantnt.github.io/posts/buildin/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/buildin/</guid><description>&lt;h1 id="tìm-hiểu-về-đối-tượng-tích-hợp-trong-javascript">Tìm Hiểu Về Đối Tượng Tích Hợp Trong JavaScript&lt;/h1>
+&lt;p>JavaScript cung cấp nhiều đối tượng tích hợp sẵn giúp xử lý các tác vụ phổ biến như thao tác dữ liệu, tính toán toán học, và làm việc với JSON. Bài viết này sẽ khám phá các loại đối tượng tích hợp và cách sử dụng chúng.&lt;/p>
+&lt;hr>
+&lt;h2 id="30-section-0--built-in-objects">3.0. Section 0 – Built-in Objects&lt;/h2>
+&lt;p>Đối tượng tích hợp sẵn (built-in objects) trong JavaScript là các công cụ mạnh mẽ được cung cấp để thực hiện các tác vụ lập trình thông thường.&lt;/p></description></item><item><title>Functions in JavaScript</title><link>https://trtrantnt.github.io/posts/functionsjs/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/functionsjs/</guid><description>&lt;h1 id="functions-in-javascript">Functions in JavaScript&lt;/h1>
+&lt;p>Hàm là một phần quan trọng trong JavaScript, giúp tái sử dụng mã và thực hiện các tác vụ lặp lại. Dưới đây là hướng dẫn chi tiết về các khái niệm và cách sử dụng hàm trong JavaScript.&lt;/p>
+&lt;hr>
+&lt;h2 id="50-functions--part-1">5.0. Functions – Part 1&lt;/h2>
+&lt;h3 id="501-functions">5.0.1 Functions&lt;/h3>
+&lt;p>Hàm là một khối mã có thể được gọi để thực thi một tác vụ cụ thể. Các hàm giúp tách biệt mã thành các phần nhỏ hơn, dễ quản lý hơn.&lt;/p></description></item><item><title>Giới thiệu về JavaScript và Lập trình Máy tính</title><link>https://trtrantnt.github.io/posts/introjs/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/introjs/</guid><description>&lt;h1 id="javascript-essentials-1-giới-thiệu-về-javascript-và-lập-trình-máy-tính">JavaScript Essentials 1: Giới thiệu về JavaScript và Lập trình Máy tính&lt;/h1>
+&lt;p>Chào mừng bạn đến với khóa học JavaScript Essentials 1! Trong bài viết này, chúng ta sẽ khám phá các khái niệm cơ bản về JavaScript, cách thiết lập môi trường lập trình, và viết chương trình &amp;ldquo;Hello, World!&amp;rdquo; đầu tiên của bạn.&lt;/p>
+&lt;hr>
+&lt;h2 id="10-welcome-to-javascript-essentials-1">1.0. Welcome to JavaScript Essentials 1&lt;/h2>
+&lt;p>JavaScript Essentials 1 là bước đầu tiên trong hành trình học lập trình JavaScript. Khóa học này sẽ cung cấp cho bạn nền tảng vững chắc về ngôn ngữ lập trình phổ biến nhất thế giới, được sử dụng để phát triển web, ứng dụng di động và nhiều lĩnh vực khác.&lt;/p></description></item><item><title>Luồng điều khiển trong JavaScript</title><link>https://trtrantnt.github.io/posts/controlflowjs/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/controlflowjs/</guid><description>&lt;h1 id="luồng-điều-khiển-trong-javascript">Luồng Điều Khiển trong JavaScript&lt;/h1>
+&lt;p>JavaScript cung cấp các công cụ mạnh mẽ để điều khiển luồng thực thi của chương trình, bao gồm các câu lệnh điều kiện và vòng lặp. Những công cụ này giúp lập trình viên tạo ra các ứng dụng động và linh hoạt.&lt;/p>
+&lt;hr>
+&lt;h2 id="40-conditional-execution">4.0. Conditional Execution&lt;/h2>
+&lt;p>Câu lệnh điều kiện cho phép bạn kiểm tra các điều kiện và thực thi mã dựa trên kết quả của điều kiện đó.&lt;/p></description></item><item><title>Toán tử và Tương tác Người dùng trong JavaScript</title><link>https://trtrantnt.github.io/posts/operatorsuserinteraction/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/operatorsuserinteraction/</guid><description>&lt;h1 id="toán-tử-và-tương-tác-người-dùng-trong-javascript">Toán tử và Tương tác Người dùng trong JavaScript&lt;/h1>
+&lt;p>Trong JavaScript, các toán tử là các công cụ quan trọng giúp thực hiện các phép tính và thao tác trên dữ liệu. Bên cạnh đó, JavaScript cung cấp cách thức để tương tác trực tiếp với người dùng thông qua giao diện console hoặc các hộp thoại. Hãy cùng khám phá các khái niệm này.&lt;/p>
+&lt;hr>
+&lt;h2 id="30-section-1--assignment-arithmetic-and-logical-operators">3.0. Section 1 – Assignment, Arithmetic, and Logical Operators&lt;/h2>
+&lt;h3 id="toán-tử-gán-assignment-operators">Toán tử Gán (Assignment Operators)&lt;/h3>
+&lt;p>Toán tử gán được sử dụng để gán giá trị cho một biến.&lt;/p></description></item><item><title>Giới thiệu</title><link>https://trtrantnt.github.io/posts/introduction/</link><pubDate>Wed, 25 Dec 2024 08:06:25 +0600</pubDate><guid>https://trtrantnt.github.io/posts/introduction/</guid><description>&lt;h4 id="xin-chào-đây-là-một-bài-viết-giới-thiệu-về-các-bài-post-trong-blog-của-tôi-trong-các-bài-post-bên-dưới-chia-sẻ-về-các-nội-dung-mà-tôi-học-được-từ-các-khoá-học">Xin chào! Đây là một bài viết giới thiệu về các bài post trong Blog của tôi. Trong các bài post bên dưới chia sẻ về các nội dung mà tôi học được từ các khoá học:&lt;/h4>
 &lt;ul>
-&lt;li>Default hero image.&lt;/li>
-&lt;li>Different shortcodes.&lt;/li>
-&lt;/ul>
-&lt;h2 id="alert">Alert&lt;/h2>
-&lt;p>The following alerts are available in this theme.&lt;/p>
-&lt;div class="alert success">
-&lt;span>&lt;i data-feather="check-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;success&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert danger">
-&lt;span>&lt;i data-feather="alert-octagon">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;danger&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert warning">
-&lt;span>&lt;i data-feather="alert-triangle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;warning&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert info">
-&lt;span>&lt;i data-feather="info">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;info&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert dark">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;dark&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert primary">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;primary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert secondary">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;secondary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;h2 id="image">Image&lt;/h2>
-&lt;h4 id="a-sample-image-without-any-attribute">A sample image without any attribute.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-sample-image-with-height-and-width-attributes">A sample image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="600"
-height="400"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-center-aligned-image-with-height-and-width-attributes">A center aligned image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="600"
-height="400"
-class="center"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-image-with-float-attribute">A image with &lt;code>float&lt;/code> attribute.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="500"
-height="200"
-style="float: right;"
->
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item><item><title>Shortcodes Samples</title><link>https://trtrantnt.github.io/posts/shortcodes/index-copy-2/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://trtrantnt.github.io/posts/shortcodes/index-copy-2/</guid><description>&lt;p>This is a sample post intended to test the followings:&lt;/p>
-&lt;ul>
-&lt;li>Default hero image.&lt;/li>
-&lt;li>Different shortcodes.&lt;/li>
-&lt;/ul>
-&lt;h2 id="alert">Alert&lt;/h2>
-&lt;p>The following alerts are available in this theme.&lt;/p>
-&lt;div class="alert success">
-&lt;span>&lt;i data-feather="check-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;success&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert danger">
-&lt;span>&lt;i data-feather="alert-octagon">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;danger&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert warning">
-&lt;span>&lt;i data-feather="alert-triangle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;warning&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert info">
-&lt;span>&lt;i data-feather="info">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;info&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert dark">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;dark&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert primary">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;primary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert secondary">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;secondary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;h2 id="image">Image&lt;/h2>
-&lt;h4 id="a-sample-image-without-any-attribute">A sample image without any attribute.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-sample-image-with-height-and-width-attributes">A sample image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="600"
-height="400"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-center-aligned-image-with-height-and-width-attributes">A center aligned image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="600"
-height="400"
-class="center"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-image-with-float-attribute">A image with &lt;code>float&lt;/code> attribute.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="500"
-height="200"
-style="float: right;"
->
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item><item><title>Shortcodes Samples</title><link>https://trtrantnt.github.io/posts/shortcodes/index-copy/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://trtrantnt.github.io/posts/shortcodes/index-copy/</guid><description>&lt;p>This is a sample post intended to test the followings:&lt;/p>
-&lt;ul>
-&lt;li>Default hero image.&lt;/li>
-&lt;li>Different shortcodes.&lt;/li>
-&lt;/ul>
-&lt;h2 id="alert">Alert&lt;/h2>
-&lt;p>The following alerts are available in this theme.&lt;/p>
-&lt;div class="alert success">
-&lt;span>&lt;i data-feather="check-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;success&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert danger">
-&lt;span>&lt;i data-feather="alert-octagon">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;danger&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert warning">
-&lt;span>&lt;i data-feather="alert-triangle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;warning&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert info">
-&lt;span>&lt;i data-feather="info">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;info&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert dark">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;dark&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert primary">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;primary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;div class="alert secondary">
-&lt;span>&lt;i data-feather="alert-circle">&lt;/i>&lt;/span>
-&lt;span>&lt;strong>This is sample alert with &lt;code>type=&amp;quot;secondary&amp;quot;&lt;/code>.&lt;/strong>&lt;/span>
-&lt;/div>
-&lt;h2 id="image">Image&lt;/h2>
-&lt;h4 id="a-sample-image-without-any-attribute">A sample image without any attribute.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-sample-image-with-height-and-width-attributes">A sample image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="600"
-height="400"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-center-aligned-image-with-height-and-width-attributes">A center aligned image with &lt;code>height&lt;/code> and &lt;code>width&lt;/code> attributes.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="600"
-height="400"
-class="center"
->
-&lt;div style="margin-top: 3rem;">&lt;/div>
-&lt;h4 id="a-image-with-float-attribute">A image with &lt;code>float&lt;/code> attribute.&lt;/h4>
-&lt;img src="https://trtrantnt.github.io/posts/shortcodes/boat.jpg"
-alt="A boat at the sea"
-width="500"
-height="200"
-style="float: right;"
->
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item></channel></rss>
+&lt;li>
+&lt;h6 id="kbdnetworking-basicskbd">&lt;kbd>Networking Basics&lt;/kbd>&lt;/h6>
+&lt;/li>
+&lt;li>
+&lt;h6 id="markjavascript-essentials-1mark">&lt;mark>JavaScript Essentials 1&lt;/mark>&lt;/h6>
+&lt;/li>
+&lt;li>
+&lt;h6 id="markjavascript-essentials-2mark">&lt;mark>JavaScript Essentials 2&lt;/mark>&lt;/h6>
+&lt;/li>
+&lt;/ul></description></item><item><title>Object trong Javascript</title><link>https://trtrantnt.github.io/posts/object/</link><pubDate>Wed, 25 Dec 2024 08:06:25 +0600</pubDate><guid>https://trtrantnt.github.io/posts/object/</guid><description>&lt;p>Tìm Hiểu Về Đối Tượng Trong JavaScript&lt;/p>
+&lt;p>Đối tượng là một trong những khái niệm quan trọng nhất trong JavaScript, giúp bạn tổ chức dữ liệu và logic một cách hiệu quả. Trong bài viết này, chúng ta sẽ khám phá các khía cạnh chính của đối tượng, từ cách tạo đến cách sử dụng.&lt;/p>
+&lt;hr>
+&lt;h2 id="11-đối-tượng-là-gì">1.1. Đối tượng là gì?&lt;/h2>
+&lt;p>Đối tượng (Object) là một cấu trúc dữ liệu phức tạp, giúp lưu trữ nhiều giá trị liên quan. Nó có thể bao gồm các thuộc tính (properties) và phương thức (methods).&lt;/p></description></item></channel></rss>

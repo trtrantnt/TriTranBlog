@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaScript on Tri's Blog</title><link>https://trtrantnt.github.io/tags/javascript/</link><description>Recent content in JavaScript on Tri's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Dec 2024 10:00:00 +0600</lastBuildDate><atom:link href="https://trtrantnt.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>Functions in JavaScript</title><link>https://trtrantnt.github.io/posts/functionsjs/</link><pubDate>Wed, 25 Dec 2024 10:00:00 +0600</pubDate><guid>https://trtrantnt.github.io/posts/functionsjs/</guid><description>&lt;h1 id="functions-in-javascript">Functions in JavaScript&lt;/h1>
+&lt;p>Hàm là một phần quan trọng trong JavaScript, giúp tái sử dụng mã và thực hiện các tác vụ lặp lại. Dưới đây là hướng dẫn chi tiết về các khái niệm và cách sử dụng hàm trong JavaScript.&lt;/p>
+&lt;hr>
+&lt;h2 id="50-functions--part-1">5.0. Functions – Part 1&lt;/h2>
+&lt;h3 id="501-functions">5.0.1 Functions&lt;/h3>
+&lt;p>Hàm là một khối mã có thể được gọi để thực thi một tác vụ cụ thể. Các hàm giúp tách biệt mã thành các phần nhỏ hơn, dễ quản lý hơn.&lt;/p></description></item></channel></rss>
